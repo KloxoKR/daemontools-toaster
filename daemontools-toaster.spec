@@ -1,7 +1,7 @@
 %define 	name daemontools
 %define 	pversion 0.76
 %define 	bversion 1.3
-%define 	rpmrelease 8.kng%{?dist}
+%define 	rpmrelease 8.kkr%{?dist}
 
 %define	release %{bversion}.%{rpmrelease}
 %define	ccflags %{optflags}
